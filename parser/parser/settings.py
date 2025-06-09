@@ -1,16 +1,11 @@
-# Scrapy settings for parser project
-#
-# For simplicity, this file contains only settings considered important or
-# commonly used. You can find more settings consulting the documentation:
-#
-#     https://docs.scrapy.org/en/latest/topics/settings.html
-#     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-#     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-
 BOT_NAME = "parser"
 
 SPIDER_MODULES = ["parser.spiders"]
 NEWSPIDER_MODULE = "parser.spiders"
+ITEM_PIPELINES = {
+    'parser.pipelines.AlcomarketPipeline': 300,
+}
+
 
 ADDONS = {}
 
@@ -19,7 +14,7 @@ ADDONS = {}
 #USER_AGENT = "parser (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
