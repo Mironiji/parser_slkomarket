@@ -3,18 +3,18 @@ import json
 
 class AlcomarketPipeline:
     def open_spider(self, spider):
-        self.file = open('result.json', 'w', encoding='utf-8')
-        self.file.write('[\n')
-        self.first = True
+        self.file = open("alkoteka_output.json", "w", encoding="utf-8")
+        self.file.write("[\n")
+        self.first_item = True
 
     def close_spider(self, spider):
-        self.file.write('\n]')
+        self.file.write("\n]")
         self.file.close()
 
     def process_item(self, item, spider):
-        line = json.dumps(dict(item), ensure_ascii=False, indent=2)
-        if not self.first:
-            self.file.write(',\n')
-        self.file.write(line)
-        self.first = False
+        if not self.first_item:
+            self.file.write(",\n")
+        json.dump(dict(item), self.file, ensure_ascii=False, indent=2)
+        self.first_item = False
         return item
+
