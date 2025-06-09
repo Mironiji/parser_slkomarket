@@ -1,0 +1,414 @@
+[
+{
+  "timestamp": 1749468259,
+  "RPC": "002b0883-2be0-11e7-82c0-00155d026416",
+  "url": null,
+  "title": "Царингер Шварц Бир",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "ПивоСлабоалкогольные напитки",
+  "price_data": {
+    "current": 145.0,
+    "original": 0.0,
+    "sale_tag": "Скидка 0%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 112
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/2a/b7/29294_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+},
+{
+  "timestamp": 1749468259,
+  "RPC": "002b0887-2be0-11e7-82c0-00155d026416",
+  "url": null,
+  "title": "Штефанс Брау Хефевайзен",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "ПивоСлабоалкогольные напитки",
+  "price_data": {
+    "current": 145.0,
+    "original": 0.0,
+    "sale_tag": "Скидка 0%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 100
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/8c/95/29296_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+},
+{
+  "timestamp": 1749468259,
+  "RPC": "002b0889-2be0-11e7-82c0-00155d026416",
+  "url": null,
+  "title": "Штефанс Брау Шварцбир",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "ПивоСлабоалкогольные напитки",
+  "price_data": {
+    "current": 145.0,
+    "original": 0.0,
+    "sale_tag": "Скидка 0%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 170
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/f7/72/29300_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+},
+{
+  "timestamp": 1749468259,
+  "RPC": "014745c4-4854-11ec-80d4-00155d03900a",
+  "url": null,
+  "title": "Гессер",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "ПивоСлабоалкогольные напитки",
+  "price_data": {
+    "current": 69.0,
+    "original": 95.0,
+    "sale_tag": "Скидка 27%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 2
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/32/5d/59208_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+},
+{
+  "timestamp": 1749468259,
+  "RPC": "03c20d60-aef6-11ee-bb9a-3cecef676e4f",
+  "url": null,
+  "title": "Рагнар Пилснер",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "ПивоСлабоалкогольные напитки",
+  "price_data": {
+    "current": 149.0,
+    "original": 0.0,
+    "sale_tag": "Скидка 0%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 143
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/fe/70/85219_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+},
+{
+  "timestamp": 1749468259,
+  "RPC": "03c20e06-aef6-11ee-bb9a-3cecef676e4f",
+  "url": null,
+  "title": "Зедазени",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "ПивоСлабоалкогольные напитки",
+  "price_data": {
+    "current": 129.0,
+    "original": 149.0,
+    "sale_tag": "Скидка 13%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 69
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/49/e4/85215_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+},
+{
+  "timestamp": 1749468259,
+  "RPC": "050b2d38-459c-11ef-bba2-3cecef676e4f",
+  "url": null,
+  "title": "Лаветти Ванилла",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "Сидр, медовухаСлабоалкогольные напитки",
+  "price_data": {
+    "current": 299.0,
+    "original": 0.0,
+    "sale_tag": "Скидка 0%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 12
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/59/72/91033_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+},
+{
+  "timestamp": 1749468259,
+  "RPC": "08f20924-58f5-11ed-ba5f-3cecef676e4f",
+  "url": null,
+  "title": "Корона Экстра",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "ПивоСлабоалкогольные напитки",
+  "price_data": {
+    "current": 139.0,
+    "original": 169.0,
+    "sale_tag": "Скидка 18%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 852
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/6d/ee/70835_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+},
+{
+  "timestamp": 1749468259,
+  "RPC": "0932b00e-af57-11ec-80d9-00155d03900a",
+  "url": null,
+  "title": "Музхед Лагер",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "ПивоСлабоалкогольные напитки",
+  "price_data": {
+    "current": 279.0,
+    "original": 0.0,
+    "sale_tag": "Скидка 0%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 147
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/04/c0/63260_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+},
+{
+  "timestamp": 1749468259,
+  "RPC": "0a05485e-4b5f-11ec-80d4-00155d03900a",
+  "url": null,
+  "title": "Музхед Крэкед Каное",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "ПивоСлабоалкогольные напитки",
+  "price_data": {
+    "current": 239.0,
+    "original": 269.0,
+    "sale_tag": "Скидка 11%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 14
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/b7/df/59389_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+},
+{
+  "timestamp": 1749468259,
+  "RPC": "0a0580c2-78fc-11ec-80d7-00155d03900a",
+  "url": null,
+  "title": "Пиво Прага Премиум Пилс Набор (3 бут. 0,5л. + бокал)",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "ПивоСлабоалкогольные напитки",
+  "price_data": {
+    "current": 1250.0,
+    "original": 0.0,
+    "sale_tag": "Скидка 0%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 42
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/c3/ca/61087_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+},
+{
+  "timestamp": 1749468259,
+  "RPC": "0c27feab-4871-11{"timestamp": 1749468259, "RPC": "107b0061-8c62-11e9-80f8-00155d2fc707", "url": null, "title": "Афанасий Портер", "marketing_tags": [], "brand": null, "section": "ПивоСлабоалкогольные напитки", "price_data": {"current": 165.0, "original": 0.0, "sale_tag": "Скидка 0%"}, "stock": {"in_stock": true, "count": 222}, "assets": {"main_image": "https://web.alkoteka.com/resize/350_500/product/47/9c/41753_image.png"}, "metadata": {"__description": "", "Объем": "", "Цвет": "", "Артикул": null, "Страна производитель": null}, "variants": 0},
+{"timestamp": 1749468259, "RPC": "117dff68-8eb1-11eb-80ce-00155d03900a", "url": null, "title": "Дюшес де Бургунь", "marketing_tags": [], "brand": null, "section": "ПивоСлабоалкогольные напитки", "price_data": {"current": 1089.0, "original": 0.0, "sale_tag": "Скидка 0%"}, "stock": {"in_stock": true, "count": 67}, "assets": {"main_image": "https://web.alkoteka.com/resize/350_500/product/35/e3/54169_image.png"}, "metadata": {"__description": "", "Объем": "", "Цвет": "", "Артикул": null, "Страна производитель": null}, "variants": 0},
+{"timestamp": 1749468259, "RPC": "117dff6c-8eb1-11eb-80ce-00155d03900a", "url": null, "title": "Крик Бун", "marketing_tags": [], "brand": null, "section": "ПивоСлабоалкогольные напитки", "price_data": {"current": 1050.0, "original": 0.0, "sale_tag": "Скидка 0%"}, "stock": {"in_stock": true, "count": 65}, "assets": {"main_image": "https://web.alkoteka.com/resize/350_500/product/e4/55/54153_image.png"}, "metadata": {"__description": "", "Объем": "", "Цвет": "", "Артикул": null, "Страна производитель": null}, "variants": 0},
+{"timestamp": 1749468259, "RPC": "1256a90e-f09b-11ed-baee-3cecef676e4f", "url": null, "title": "Джинро со вкусом и ароматом сливы соджу", "marketing_tags": [], "brand": null, "section": "ПрочееСлабоалкогольные напитки", "price_data": {"current": 699.0, "original": 799.0, "sale_tag": "Скидка 13%"}, "stock": {"in_stock": true, "count": 121}, "assets": {"main_image": "https://web.alkoteka.com/resize/350_500/product/5a/ac/77451_image.png"}, "metadata": {"__description": "", "Объем": "", "Цвет": "", "Артикул": null, "Страна производитель": null}, "variants": 0},
+{"timestamp": 1749468259, "RPC": "19107778-ed8a-11e8-80f6-00155d2fc707", "url": null, "title": "Медовый напиток Хмельной мёд Вишнёвый Крик", "marketing_tags": [], "brand": null, "section": "Сидр, медовухаСлабоалкогольные напитки", "price_data": {"current": 125.0, "original": 145.0, "sale_tag": "Скидка 14%"}, "stock": {"in_stock": true, "count": 94}, "assets": {"main_image": "https://web.alkoteka.com/resize/350_500/product/20/27/39010_image.png"}, "metadata": {"__description": "", "Объем": "", "Цвет": "", "Артикул": null, "Страна производитель": null}, "variants": 0},
+{"timestamp": 1749468259, "RPC": "19107784-ed8a-11e8-80f6-00155d2fc707", "url": null, "title": "Медовый напиток Хмельной мёд Традиционный", "marketing_tags": [], "brand": null, "section": "Сидр, медовухаСлабоалкогольные напитки", "price_data": {"current": 115.0, "original": 135.0, "sale_tag": "Скидка 15%"}, "stock": {"in_stock": true, "count": 143}, "assets": {"main_image": "https://web.alkoteka.com/resize/350_500/product/bc/f2/39020_image.png"}, "metadata": {"__description": "", "Объем": "", "Цвет": "", "Артикул": null, "Страна производитель": null}, "variants": 0},
+{"timestamp": 1749468259, "RPC": "19107788-ed8a-11e8-80f6-00155d2fc707", "url": null, "title": "Пуаре Грушевый сидр полусладкий", "marketing_tags": [], "brand": null, "section": "Сидр, медовухаСлабоалкогольные напитки", "price_data": {"current": 115.0, "original": 135.0, "sale_tag": "Скидка 15%"}, "stock": {"in_stock": true, "count": 88}, "assets": {"main_image": "https://web.alkoteka.com/resize/350_500/product/63/e8/39012_image.png"}, "metadata": {"__description": "", "Объем": "", "Цвет": "", "Артикул": null, "Страна производитель": null}, "variants": 0}
+]rl": null,
+  "title": "Медовый напиток Хмельной мёд Вишнёвый Крик",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "Сидр, медовухаСлабоалкогольные напитки",
+  "price_data": {
+    "current": 125.0,
+    "original": 145.0,
+    "sale_tag": "Скидка 14%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 94
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/20/27/39010_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+},
+{
+  "timestamp": 1749468259,
+  "RPC": "19107784-ed8a-11e8-80f6-00155d2fc707",
+  "url": null,
+  "title": "Медовый напиток Хмельной мёд Традиционный",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "Сидр, медовухаСлабоалкогольные напитки",
+  "price_data": {
+    "current": 115.0,
+    "original": 135.0,
+    "sale_tag": "Скидка 15%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 143
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/bc/f2/39020_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+},
+{
+  "timestamp": 1749468259,
+  "RPC": "19107788-ed8a-11e8-80f6-00155d2fc707",
+  "url": null,
+  "title": "Пуаре Грушевый сидр полусладкий",
+  "marketing_tags": [],
+  "brand": null,
+  "section": "Сидр, медовухаСлабоалкогольные напитки",
+  "price_data": {
+    "current": 115.0,
+    "original": 135.0,
+    "sale_tag": "Скидка 15%"
+  },
+  "stock": {
+    "in_stock": true,
+    "count": 88
+  },
+  "assets": {
+    "main_image": "https://web.alkoteka.com/resize/350_500/product/63/e8/39012_image.png"
+  },
+  "metadata": {
+    "__description": "",
+    "Объем": "",
+    "Цвет": "",
+    "Артикул": null,
+    "Страна производитель": null
+  },
+  "variants": 0
+}
+]

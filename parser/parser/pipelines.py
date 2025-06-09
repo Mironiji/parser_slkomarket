@@ -3,7 +3,7 @@ import json
 
 class AlcomarketPipeline:
     def open_spider(self, spider):
-        self.file = open('alcomarket_data.json', 'w', encoding='utf-8')
+        self.file = open('result.json', 'w', encoding='utf-8')
         self.file.write('[\n')
         self.first = True
 
@@ -12,7 +12,6 @@ class AlcomarketPipeline:
         self.file.close()
 
     def process_item(self, item, spider):
-        item['timestamp'] = datetime.utcnow().isoformat()
         line = json.dumps(dict(item), ensure_ascii=False, indent=2)
         if not self.first:
             self.file.write(',\n')
